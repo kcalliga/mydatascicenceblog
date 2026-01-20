@@ -1,1 +1,3 @@
-site_name: My Docs
+site_name: My Data Science Blog
+theme:
+  name: readthedocs
