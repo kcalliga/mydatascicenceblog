@@ -1,17 +1,28 @@
-# Welcome to MkDocs
+i<!--
+title: Introduction
+description: Introduction
+published: true
+date: 2024-01-03T21:10:25.726Z
+tags: 
+editor: ckeditor
+dateCreated: 2024-01-03T20:53:27.404Z
+-->
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<!--
+title: Introduction
+description: Introduction
+published: true
+date: 2024-01-02T19:21:44.555Z
+tags:
+editor: undefined
+dateCreated: 2024-01-02T18:37:14.306Z
+-->
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+<p>Welcome to the MyDataScienceBook website. &nbsp;This is an attempt by me to share the notes I have taken based on my learnings through my recent schooling and also many texts I have referenced. &nbsp;Secondly, I am trying to find the best way to organize this information so that is easy to find when I am studying or attempting some hackathon. I hope to make this one of my only stops when I am trying to accomplish any of these tasks.</p>
+<p>As I learn new things, more notes will be added to this site. &nbsp;I am very much a novice in this field but this is my attempt to learn more and have information within easy reach. &nbsp;</p>
+<p>The left-hand side of the navigation will be a table of contents which is still a work in progress. &nbsp;I will write content and chapters in the coming months.</p>
+<p>Much more content to come soon.</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
